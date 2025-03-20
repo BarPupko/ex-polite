@@ -1,4 +1,7 @@
-# 📧 SafeMail Agent – Intelligent Email Compliance & Security Automation  
+# SafeMail Agent – Intelligent Email Compliance & Security Automation  
+
+![LOGO](/assets/icon-80.png)
+
 
 ## 🚀 Overview  
 SafeMail Agent is an AI-powered Chrome extension designed to **analyze incoming emails, extract key compliance-related actions, and automate security processes**. It scans emails in real-time, identifies regulatory requirements (such as **ISO standards**), generates actionable tasks, and classifies emails for compliance documentation.  
