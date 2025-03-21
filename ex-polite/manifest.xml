@@ -95,8 +95,8 @@
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="EX-Polite"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="Sort this email"/>
-        <bt:String id="ActionButton.Label" DefaultValue="What is EX-Polite"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="What is EX-Polite"/>
+        <bt:String id="ActionButton.Label" DefaultValue="Sort this email"/>
       </bt:ShortStrings>
       <bt:LongStrings>
         <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Opens a pane displaying all available properties."/>
