@@ -4,7 +4,7 @@
   <Version>1.0.0.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="ex-polite"/>
+  <DisplayName DefaultValue="Welcome to Polite"/>
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://localhost:3000/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-128.png"/>
@@ -94,9 +94,9 @@
         <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
-        <bt:String id="GroupLabel" DefaultValue="Contoso Add-in"/>
-        <bt:String id="TaskpaneButton.Label" DefaultValue="Polite this mail"/>
-        <bt:String id="ActionButton.Label" DefaultValue="Perform a Polite action"/>
+        <bt:String id="GroupLabel" DefaultValue="EX-Polite"/>
+        <bt:String id="TaskpaneButton.Label" DefaultValue="Sort this email"/>
+        <bt:String id="ActionButton.Label" DefaultValue="What is EX-Polite"/>
       </bt:ShortStrings>
       <bt:LongStrings>
         <bt:String id="TaskpaneButton.Tooltip" DefaultValue="Opens a pane displaying all available properties."/>
